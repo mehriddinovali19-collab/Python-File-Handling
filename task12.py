@@ -1,0 +1,5 @@
+input_file = open("Input/students.txt", "r")
+data = input_file.read().split()
+length = len(data)
+output_file = open("Output/output12.txt", "w")
+output_file.write(f"Jami ismlar soni: {length}")
