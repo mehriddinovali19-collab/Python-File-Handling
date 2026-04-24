@@ -12,3 +12,4 @@ Output_file.write(f"Sonlar: {five_multi}\nSoni: {count}")
 
 
 
+
