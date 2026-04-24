@@ -6,5 +6,8 @@ numbers = [int(x) for x in av]
 total = sum(numbers)
 count = len(numbers)
 average = total / count
-print(str(average))
 
+
+
+output_file = open("Output/output05.txt", "w")
+output_file.write(str(average))
