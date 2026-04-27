@@ -1,0 +1,6 @@
+Name: Name, Grade: Grade
+Name: Ali, Grade: 4
+Name: Malika, Grade: 5
+Name: Sardor, Grade: 3
+Name: Nigora, Grade: 5
+Name: Bekzod, Grade: 4
